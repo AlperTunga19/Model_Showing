@@ -1,2 +1,3 @@
 # Model_Showing
-show the model by .obj file
+
+showes the model on Windows window
